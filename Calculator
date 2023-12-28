@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
-    <title>Calculator</title>
+    <title>Калькулятор</title>
     <style>
     body{
         width: 100%;
